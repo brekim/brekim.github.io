@@ -45,6 +45,7 @@ ul {
     display: grid;
     gap: 0.75rem;
     font-family: 'Graphik';
+    font-style: italic;
 }
 
 img {
@@ -62,4 +63,5 @@ a:visited {
 
 p {
     font-family: 'Graphik';
+    font-style: italic;
 }
